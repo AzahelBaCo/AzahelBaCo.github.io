@@ -1,0 +1,7 @@
+<services>
+    <service name="greet">
+        <description>Greet the user</description>
+        <endpoint>/greet</endpoint>
+        <method>POST</method>
+    </service>
+</services>
